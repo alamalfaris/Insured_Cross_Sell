@@ -40,3 +40,20 @@ We use 3 algorithms in this notebook:
 1. Logistic Regression
 2. KNearestNeighbors
 3. Random Forest
+
+## EDA-Conclusion
+No ones interested with vehicle insurance when they already have it
+Adult more interested than elderly
+Adult male more interested than adult female
+Elderly male more interested than elderly female
+Who interested with vehicle insurance mostly who have vehicle 1-2 years old
+Who interested with vehicle insurance mostly who have got vehicle damage
+Who interested with vehicle insurance mostly who have annual premium above median
+
+## EDA-Recommendation
+We can more offer vehicle insurance to health insurance owner who doesn't have vehicle insurance before. Because no ones interested with vehicle insurance when they already have it
+We can more offer vehicle insurance to adult. Because adult more interested than elderly
+We can more offer vehicle insurance to adult male. Because they are more interested than adult female
+We can more offer vehicle insurance to they who have vehicle 1-2 years old
+We can more offer vehicle insurance to they who have annual premium above median
+We can more offer vehicle insurance to they have got vehicle damage
