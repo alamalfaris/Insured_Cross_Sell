@@ -36,8 +36,7 @@
 - Response: 1 : Customer is interested, 0 : Customer is not interested
 
 ## Algorithm
-We use 4 algorithms in this notebook:
+We use 3 algorithms in this notebook:
 1. Logistic Regression
 2. KNearestNeighbors
-3. Decision Tree
-4. Random Forest
+3. Random Forest
